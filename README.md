@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+The purpose of this repo is to create a WordPress management panel, next js front-end managed structure.
 
 ## Getting Started
 
