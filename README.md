@@ -44,3 +44,4 @@ Thus, you can now access the project from the http://localhost:3001 port.
 - [ ] Having the logo manageable by wordpress
 - [ ] Managing by WordPress with Head on the Next Js side
 - [ ] Categorizing the articles
+- [ ] Creating dynamic sitemap.xml file
