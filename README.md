@@ -40,7 +40,7 @@ Thus, you can now access the project from the http://localhost:3001 port.
 
 - [x] Listing POSTs from WordPress
 - [x] Making detail pages of listed POSTs
-- [ ] Configuring the main menu to be executed by WordPress
+- [x] Configuring the main menu to be executed by WordPress
 - [ ] Having the logo manageable by wordpress
 - [ ] Managing by WordPress with Head on the Next Js side
 - [ ] Categorizing the articles
