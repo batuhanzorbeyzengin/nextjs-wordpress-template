@@ -19,7 +19,22 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+How to run project with Dockerfile:
+
+```bash
+docker build -t next-wp-template .
+```
+```bash
+docker run -p 3000:3000 next-wp-template
+```
+
+After that, you should be able to access from http://localhost:3000. If the 3000 port is used by another application in your local environment, it will be sufficient to simply change the port we mapped in the docker run command. To give an example:
+
+```bash
+docker run -p 3001:3000 next-wp-template
+```
+
+Thus, you can now access the project from the http://localhost:3001 port.
 
 ## TODO
 
