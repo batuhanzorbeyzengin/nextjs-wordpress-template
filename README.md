@@ -45,3 +45,5 @@ Thus, you can now access the project from the http://localhost:3001 port.
 - [ ] Managing by WordPress with Head on the Next Js side
 - [ ] Categorizing the articles
 - [ ] Creating dynamic sitemap.xml file
+- [ ] Creating dynamic robots.txt file
+- [ ] React Query will be included in the project
